@@ -377,7 +377,9 @@ footer {
   background: #a57d24;
   padding: 6px 10px;
   border-radius: 5px;
-  text-align: left; }
+  text-align: left; 
+  filter: drop-shadow(0rem 0.2rem 0.2rem #FFEDB7);
+}
 
 .direction-l .flag {
   -webkit-box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.15), 0 0 1px rgba(0, 0, 0, 0.15);
